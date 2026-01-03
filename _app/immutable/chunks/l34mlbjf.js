@@ -1,0 +1,1 @@
+const S={STOCK:"Stock",CRYPTO:"Cryptocurrency",GOLD:"Gold",MUTUAL_FUND:"Mutual Fund",ETF:"ETF",BOND:"Bond",COMMODITY:"Commodity",OTHER:"Other Investment"},T={SHARES:"Shares",COINS:"Coins",GRAMS:"Grams",UNITS:"Units"};export{S as A,T as U};
